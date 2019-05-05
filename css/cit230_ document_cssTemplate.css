@@ -5,7 +5,7 @@
 * { margin: 0; box-sizing: border-box; } 
 
 body { 
-    font-size: 16px; 
+    font-size: 8px; 
     line-height: 32px;
     font-family: Ubuntu, sans-serif;
     color: black;
@@ -13,11 +13,11 @@ body {
 
 h1 {
     font-size: 1.25rem;
-    color: gray;
+    color: white;
 }
 
 h2 {
-    font-size: 0.5rem;
+    font-size: 1.5rem;
     text-align: center;
     border-bottom: 1px solid #bbb;
 }
