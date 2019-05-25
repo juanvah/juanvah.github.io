@@ -9,7 +9,7 @@ header {
 header img, .headings {
 	display: inline-block;
 	vertical-align: middle;
-	margin: 10px;
+    margin: 10px;
 }
 
 nav {	
@@ -38,7 +38,7 @@ nav {
     text-decoration: none;}
   
 .navigation a:hover {	
-    color: #000; 
+    color: #0b132b; 
     background-color: #fff; 
     font-weight: 700;	
 }
