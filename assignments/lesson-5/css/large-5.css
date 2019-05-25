@@ -87,3 +87,24 @@ nav {
     background: radial-gradient(#3a506b, #5db7de)
     
 }
+
+
+/*columns*/
+
+.left-column, .right-column {
+    width: 100%;
+    flex: 1 0 15em;
+  }
+  
+  .right-column {
+   padding-left: 30px; 
+  }
+
+  #row1, #row2 {
+    padding: 1.1em; 
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    text-align:center;
+  }
