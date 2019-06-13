@@ -1,8 +1,9 @@
 
 @import url('https://fonts.googleapis.com/css?family=Ubuntu&display=swap');
-body {
+table {
     text-align: center;
     font-family: "Ubuntu", sans-serif;
+    padding: 5px;
 }
 
 tbody tr:nth-child(odd) {
@@ -20,4 +21,8 @@ thead, tfoot {
 .mark-1 {
     background-color: #628ca6;
     color: white;
+}
+
+tfoot {
+    font-size: 0.875em;
 }
