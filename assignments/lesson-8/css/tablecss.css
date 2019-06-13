@@ -3,8 +3,12 @@
 table {
     text-align: center;
     font-family: "Ubuntu", sans-serif;
-    padding: 10px;
     table-layout: fixed;
+    border: 1px solid gray;
+}
+
+thead, tbody, tfoot{
+    padding: 10px;
     border: 1px solid gray;
 }
 
